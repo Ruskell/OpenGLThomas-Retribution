@@ -1,0 +1,38 @@
+# Blender MTL File: 'piiichan_piiichan_householditems_coal.blend'
+# Material Count: 3
+
+newmtl burning_coal
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.720000 0.720000 0.720000
+Ks 0.020000 0.020000 0.020000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.500000 textures\\coal53.jpg
+map_Kd textures\\coal53.jpg
+
+newmtl coal
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.720000 0.720000 0.720000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.500000 textures\\coal79.jpg
+map_Kd textures\\coal79.jpg
+
+newmtl coal2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.720000 0.720000 0.720000
+Ks 0.020000 0.020000 0.020000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.500000 textures\\coal53.jpg
+map_Kd textures\\coal53.jpg

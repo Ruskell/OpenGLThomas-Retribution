@@ -1,0 +1,38 @@
+# Blender MTL File: 'environment.blend'
+# Material Count: 3
+
+newmtl reils_metal.001
+Ns 15.686275
+Ka 0.000000 0.000000 0.000000
+Kd 0.235300 0.235300 0.235300
+Ks 0.077500 0.077500 0.077500
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\wooden sleepers.jpg
+map_Ka textures\\wooden sleepers.jpg
+
+newmtl sleeper_wooden.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.309800 0.309800 0.309800
+Ks 0.014500 0.014500 0.014500
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\wood.jpg
+map_Ka textures\\wooden sleepers.jpg
+
+newmtl surface_reils.001
+Ns 74.509804
+Ka 0.000000 0.000000 0.000000
+Kd 0.070600 0.070600 0.070600
+Ks 0.850000 0.850000 0.850000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\wooden sleepers.jpg
+map_Ka textures\\wooden sleepers.jpg

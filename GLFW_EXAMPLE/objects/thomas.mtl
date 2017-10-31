@@ -1,0 +1,94 @@
+# Blender MTL File: 'thomas.blend'
+# Material Count: 8
+
+newmtl Eyes
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.374345 0.374345 0.374345
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\Eye_01.png
+
+newmtl None
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\cobblestone.png
+
+newmtl Page_01
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.374345 0.374345 0.374345
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\engine_thomas_page1.png
+
+newmtl Page_02
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.374345 0.374345 0.374345
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\engine_thomas_page2.png
+
+newmtl Page_03
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.374345 0.374345 0.374345
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures\Engine_Thomas_Page3.png
+map_d textures\\Engine_Thomas_Page3.png
+
+newmtl reils_metal.000
+Ns 15.686275
+Ka 0.000000 0.000000 0.000000
+Kd 0.235300 0.235300 0.235300
+Ks 0.077500 0.077500 0.077500
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\wooden sleepers.jpg
+map_Ka textures\\wooden sleepers.jpg
+
+newmtl sleeper_wooden.000
+Ns 5.882353
+Ka 0.000000 0.000000 0.000000
+Kd 0.309800 0.309800 0.309800
+Ks 0.014500 0.014500 0.014500
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\wood.jpg
+map_Ka textures\\wooden sleepers.jpg
+
+newmtl surface_reils.000
+Ns 74.509804
+Ka 0.000000 0.000000 0.000000
+Kd 0.070600 0.070600 0.070600
+Ks 0.850000 0.850000 0.850000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures\wooden sleepers.jpg
+map_Ka textures\\wooden sleepers.jpg
